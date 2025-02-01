@@ -40,7 +40,7 @@ This episode provides a step-by-step guide on writing and executing JavaScript c
   console.log(name);
   console.log(c);
   ```
-- **Step 5:** Open the terminal (`Ctrl + `) and run the file:
+- **Step 5:** Open the terminal (`Ctrl + ~`) and run the file:
   ```sh
   node app.js
   ```
